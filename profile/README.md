@@ -1,4 +1,4 @@
-# Save the Oak Ridges Moraine (STORM)
+# Save the Oak Ridges Moraine Coalition
 
 https://www.stormcoalition.com/
 
