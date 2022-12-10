@@ -4,6 +4,8 @@ https://www.stormcoalition.com/
 
 https://stormcoalition.github.io/
 
+## Web maps
+
 https://stormcoalition.shinyapps.io/ORMCA/
 
 ## Markdown "Cheatsheets":
